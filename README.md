@@ -18,7 +18,7 @@ REQUIRED LIBRARIES:
 
 2.streamlit
 
-3.psycopg2
+3.MYSQL
 
 4.pymongo
 
